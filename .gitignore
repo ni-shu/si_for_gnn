@@ -1,0 +1,15 @@
+**/__pycache__/
+
+tools/save_figs/
+results/*/
+visualize/_old_figs
+data
+figures/*.pdf
+
+
+source/tools/save_figs
+_backup
+_sample_codes
+_sampling
+_toy_example
+_misc
